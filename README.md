@@ -11,4 +11,4 @@
       for these types of arrays
   * Record array
 # Pandas
-  * https://youtu.be/XDAnFZqJDvI
+  * [Wrangling data with Pandas](https://youtu.be/XDAnFZqJDvI)
